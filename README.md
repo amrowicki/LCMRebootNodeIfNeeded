@@ -10,10 +10,12 @@ The task is automatically deleted after setting the desired value.
 
 ### RebootNodeIfNeeded ###
 *Note: This is a required parameter*
+
 The new desired value of the RebootNodeIfNeeded parameter
 
 ### TaskName ###
 *Note: This is a required parameter*
+
 The name of the scheduled task used to set the desired value
 
 #### Examples
