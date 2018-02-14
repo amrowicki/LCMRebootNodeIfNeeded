@@ -16,4 +16,7 @@ The new desired value of the RebootNodeIfNeeded parameter
 *Note: This is a required parameter*
 The name of the scheduled task used to set the desired value
 
-### Examples ###
+#### Examples
+
+* [Disable Auto Reboot](https://github.com/amrowicki/LCMRebootNodeIfNeeded/blob/master/Examples/1-DisableAutoReboot.ps1)
+* [Enable Auto Reboot](https://github.com/amrowicki/LCMRebootNodeIfNeeded/blob/master/Examples/2-EnableAutoReboot.ps1)
